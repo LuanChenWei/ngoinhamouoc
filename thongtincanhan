@@ -1,0 +1,8 @@
+name = "Tran Duy Luan"
+birth = "ngay 2 thang 1"
+add = "vung tau"
+reason = "longstory"
+print("Ho va Ten:",name)
+print("sinh nhat:",birth)
+print("dia chi:",add)
+print("ly do hoc:",reason)

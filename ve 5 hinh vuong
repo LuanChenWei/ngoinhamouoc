@@ -1,0 +1,103 @@
+import turtle
+t = turtle.Turtle()
+
+size = 100
+size2 = 100 / 2
+angle = 90
+goc = 360 / 5
+
+t.rt(angle)
+#hinh 1111111111111111111111
+
+
+t.fd(size2)
+
+t.lt(angle)
+t.fd(size)
+
+t.lt(angle)
+t.fd(size)
+
+t.lt(angle)
+t.fd(size)
+
+t.lt(angle)
+t.fd(size2)
+
+# hinh 22222222222222222222222222222222
+
+t.lt(goc)
+
+t.fd(size2)
+
+t.lt(angle)
+t.fd(size)
+
+t.lt(angle)
+t.fd(size)
+
+t.lt(angle)
+t.fd(size)
+
+t.lt(angle)
+t.fd(size2)
+
+#hinh 3333333333333
+t.lt(goc)
+
+t.fd(size2)
+
+t.lt(angle)
+t.fd(size)
+
+t.lt(angle)
+t.fd(size)
+
+t.lt(angle)
+t.fd(size)
+
+t.lt(angle)
+t.fd(size2)
+#hinh 444444444444
+t.lt(goc)
+
+t.fd(size2)
+
+t.lt(angle)
+t.fd(size)
+
+t.lt(angle)
+t.fd(size)
+
+t.lt(angle)
+t.fd(size)
+
+t.lt(angle)
+t.fd(size2)
+#hinh 5555555555555
+t.lt(goc)
+
+t.fd(size2)
+
+t.lt(angle)
+t.fd(size)
+
+t.lt(angle)
+t.fd(size)
+
+t.lt(angle)
+t.fd(size)
+
+t.lt(angle)
+t.fd(size2)
+
+
+turtle.done()
+
+
+
+
+
+
+
+

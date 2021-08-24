@@ -1,0 +1,19 @@
+
+
+
+a = int(input('nhap vao so dau tien: '))
+
+b = int(input('nhap vao so thu hai: '))
+
+c = range(a, b+1)
+tong = 0
+for x in c:
+    tong += x
+
+print(tong)
+
+
+
+
+
+
